@@ -1,10 +1,6 @@
-var images = [
-    "Family.png", "Dad.jpg", "Mom.png", "Me.jpg"
-];
+var images = ["Family.png", "Dad.jpg", "Mom.png", "Me.jpg"];
 
-var names = [
-    ["Family book", "Dad", "Mom", "Me"]
-];
+var names = ["Family book", "Dad", "Mom", "Me"];
 
 var i = 0;
 
